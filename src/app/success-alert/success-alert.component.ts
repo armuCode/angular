@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
     `
       p {
         padding: 20px;
-        background-color: green;
-        color: white;
+        background-color: khaki;
+        color: olive;
       }
     `,
   ],
